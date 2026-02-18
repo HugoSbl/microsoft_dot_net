@@ -1,0 +1,14 @@
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/bin/Debug/net10.0/microsoft_dot_net
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/bin/Debug/net10.0/microsoft_dot_net.deps.json
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/bin/Debug/net10.0/microsoft_dot_net.runtimeconfig.json
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/bin/Debug/net10.0/microsoft_dot_net.dll
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/bin/Debug/net10.0/microsoft_dot_net.pdb
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.AssemblyInfoInputs.cache
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.AssemblyInfo.cs
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.csproj.CoreCompileInputs.cache
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.dll
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/refint/microsoft_dot_net.dll
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.pdb
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/microsoft_dot_net.genruntimeconfig.cache
+/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/Debug/net10.0/ref/microsoft_dot_net.dll

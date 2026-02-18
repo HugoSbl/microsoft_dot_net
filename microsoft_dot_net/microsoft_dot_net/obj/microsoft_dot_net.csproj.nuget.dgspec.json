@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/microsoft_dot_net.csproj": {}
+  },
+  "projects": {
+    "/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/microsoft_dot_net.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/microsoft_dot_net.csproj",
+        "projectName": "microsoft_dot_net",
+        "projectPath": "/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/microsoft_dot_net.csproj",
+        "packagesPath": "/Users/hugo/.nuget/packages/",
+        "outputPath": "/Users/hugo/RiderProjects/microsoft_dot_net/microsoft_dot_net/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hugo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/hugo/.dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
