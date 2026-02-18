@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 Console.WriteLine("Enter a calculation : ");
 
 String userString = Console.ReadLine();
@@ -16,8 +15,8 @@ Int16 secondNumber = Int16.Parse(userString.Substring(actualOperator, userString
 switch (actualOperator)
 {
   case   '+':
-    Console.WriteLine(firstNumber + secondNumber);
-    break;
+        Console.WriteLine(firstNumber + secondNumber);
+        break;
     case   '-':
         Console.WriteLine(firstNumber - secondNumber);
         break;

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microsoft_dot_net", "microsoft_dot_net\microsoft_dot_net.csproj", "{C9FED856-4287-454D-B91D-597922C22DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zoo", "zoo\zoo.csproj", "{3EFE3045-790B-4794-8028-95A4CB7ED849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C9FED856-4287-454D-B91D-597922C22DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9FED856-4287-454D-B91D-597922C22DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9FED856-4287-454D-B91D-597922C22DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFE3045-790B-4794-8028-95A4CB7ED849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFE3045-790B-4794-8028-95A4CB7ED849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFE3045-790B-4794-8028-95A4CB7ED849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFE3045-790B-4794-8028-95A4CB7ED849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
